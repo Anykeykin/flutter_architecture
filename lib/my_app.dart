@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
       child: Scaffold(
         backgroundColor: Colors.white,
         appBar: AppBar(
-          title: Text('Photo List'),
+          title: Text('Список с фото из json'),
           centerTitle: true,
         ),
         body: Column(
