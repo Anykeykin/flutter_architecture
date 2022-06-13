@@ -1,3 +1,3 @@
-export 'src/service_provider.dart';
-export 'src/api/services.dart';
-export 'src/api/storage.dart';
+export 'services/photo_provider.dart';
+export 'services/photo_repository.dart';
+

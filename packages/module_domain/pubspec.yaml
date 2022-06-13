@@ -29,8 +29,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get_it:
-  injectable:
+  flutter_bloc:
+  module_model:
+    path: ../module_model
   module_data:
     path: ../module_data
 
@@ -41,8 +42,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  injectable_generator:
-  build_runner:
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

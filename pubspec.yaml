@@ -30,6 +30,9 @@ dependencies:
   flutter:
     sdk: flutter
   provider:
+  flutter_bloc:
+  module_data:
+    path: packages/module_data
   module_domain:
     path: packages/module_domain
 
